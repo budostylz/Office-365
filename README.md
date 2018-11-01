@@ -27,3 +27,9 @@ https://docs.microsoft.com/en-us/sharepoint/turn-external-sharing-on-or-off
 ## Office 365 – PowerShell Script to Upload Files to a Document Library using CSOM
 
 https://blogs.technet.microsoft.com/fromthefield/2014/02/19/office-365-powershell-script-to-upload-files-to-a-document-library-using-csom/
+
+## SharePoint Server 2013 Client Components SDK
+
+https://www.microsoft.com/en-us/download/details.aspx?id=35585
+
+
