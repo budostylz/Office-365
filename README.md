@@ -23,3 +23,7 @@ https://docs.microsoft.com/en-us/office365/enterprise/powershell/manage-sharepoi
 ## Turn external sharing on or off for SharePoint Online
 
 https://docs.microsoft.com/en-us/sharepoint/turn-external-sharing-on-or-off
+
+## Office 365 – PowerShell Script to Upload Files to a Document Library using CSOM
+
+https://blogs.technet.microsoft.com/fromthefield/2014/02/19/office-365-powershell-script-to-upload-files-to-a-document-library-using-csom/
