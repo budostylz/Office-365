@@ -19,3 +19,7 @@ https://support.office.com/en-us/article/upload-on-premises-content-to-sharepoin
 ## Manage SharePoint Online with Office 365 PowerShell
 
 https://docs.microsoft.com/en-us/office365/enterprise/powershell/manage-sharepoint-online-with-office-365-powershell
+
+## Turn external sharing on or off for SharePoint Online
+
+https://docs.microsoft.com/en-us/sharepoint/turn-external-sharing-on-or-off
