@@ -32,4 +32,7 @@ https://blogs.technet.microsoft.com/fromthefield/2014/02/19/office-365-powershel
 
 https://www.microsoft.com/en-us/download/details.aspx?id=35585
 
+## Complete basic operations using SharePoint client library code
+
+https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/complete-basic-operations-using-sharepoint-client-library-code
 
