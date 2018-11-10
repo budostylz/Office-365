@@ -36,3 +36,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=35585
 
 https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/complete-basic-operations-using-sharepoint-client-library-code
 
+## SharePoint Online - Upload document using PowerShell / CSOM with meta data
+
+https://techcommunity.microsoft.com/t5/SharePoint-Developer/SharePoint-Online-Upload-document-using-PowerShell-CSOM-with/td-p/49704
+
