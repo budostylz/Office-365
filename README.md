@@ -40,3 +40,7 @@ https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/complete-basic-operat
 
 https://techcommunity.microsoft.com/t5/SharePoint-Developer/SharePoint-Online-Upload-document-using-PowerShell-CSOM-with/td-p/49704
 
+## Powershell: The many ways to use regex
+
+https://kevinmarquette.github.io/2017-07-31-Powershell-regex-regular-expression/
+
