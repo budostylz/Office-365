@@ -44,3 +44,6 @@ https://techcommunity.microsoft.com/t5/SharePoint-Developer/SharePoint-Online-Up
 
 https://kevinmarquette.github.io/2017-07-31-Powershell-regex-regular-expression/
 
+## Save list as a template on Office 365 Groups created sites
+
+https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_shareon/save-list-as-a-template-on-office-365-groups/886b5f92-6fab-450f-8b60-d97cc493324d?auth=1
