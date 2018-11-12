@@ -51,3 +51,7 @@ https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_shareo
 ## SharePoint Online: Delete All List Items using PowerShell
 
 http://www.sharepointdiary.com/2015/10/delete-list-items-in-sharepoint-online-using-powershell.html
+
+## SharePoint O365 Permissions - Deny - Add and Customise Pages issue
+
+https://www.qdoscc.com/blog/sharepoint-o365-permissions-deny-add-and-customise-pages-issue
