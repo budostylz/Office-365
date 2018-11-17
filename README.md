@@ -55,3 +55,8 @@ http://www.sharepointdiary.com/2015/10/delete-list-items-in-sharepoint-online-us
 ## SharePoint O365 Permissions - Deny - Add and Customise Pages issue
 
 https://www.qdoscc.com/blog/sharepoint-o365-permissions-deny-add-and-customise-pages-issue
+
+## Learn Four Ways to Use PowerShell to Create Folders
+
+https://blogs.technet.microsoft.com/heyscriptingguy/2012/02/21/learn-four-ways-to-use-powershell-to-create-folders/
+
